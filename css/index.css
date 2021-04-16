@@ -25,14 +25,14 @@ h1 {
     width: 100%;
 }
 
-li {
+.indice li {
     display: inline;
     padding: 0 140px;
     font-size: 18px;
     color: #007EA7;
 }
 
-ul {
+.indice {
     padding: 35px;
 }
 
@@ -62,4 +62,9 @@ a {
 
 h2, h3 {
     line-height: 70px;
+}
+
+#soft-skills {
+    margin-top: 40px;
+    width: 50%;
 }
