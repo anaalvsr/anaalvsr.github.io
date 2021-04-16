@@ -39,3 +39,9 @@ ul {
 a {
     text-decoration: none;
 }
+
+.content {
+    height: 578px;
+    background-color: #CCDBDC;
+    padding: 30px 80px;
+}
