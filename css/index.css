@@ -64,7 +64,28 @@ h2, h3 {
     line-height: 70px;
 }
 
+.skills {
+    display: inline-flex;
+}
+
 #soft-skills {
     margin-top: 40px;
-    width: 50%;
+    margin-right: 200px;
+}
+
+#hard-skills {
+   margin-top: 40px;
+   margin-left: 200px;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: #007EA7;
+}
+
+footer p, footer a {
+    padding: 15px;
+    text-align: center;
+    color: #CCDBDC;
 }
