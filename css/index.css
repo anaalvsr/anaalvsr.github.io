@@ -39,3 +39,27 @@ ul {
 a {
     text-decoration: none;
 }
+
+.content {
+    height: 578px;
+    background-color: #CCDBDC;
+    padding: 30px 80px;
+}
+
+#about p {
+    width: 65%;
+    text-align: justify;
+    display: inline-flex;
+}
+
+#foto-perfil {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: -120px;
+}
+
+h2, h3 {
+    line-height: 70px;
+}
