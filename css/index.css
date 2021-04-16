@@ -8,12 +8,34 @@ body {
 
 header {
     background-color: #007EA7;
-    height: 500px;
+    height: 550px;
     width: 100%;
 }
 
 h1 {
     text-align: center;
-    padding: 17%;
+    padding: 18%;
     font-size: 50px;
+    color: #CCDBDC;
+}
+
+.menu {
+    background-color: #80CED7;
+    height: 88px;
+    width: 100%;
+}
+
+li {
+    display: inline;
+    padding: 0 140px;
+    font-size: 18px;
+    color: #007EA7;
+}
+
+ul {
+    padding: 35px;
+}
+
+a {
+    text-decoration: none;
 }
